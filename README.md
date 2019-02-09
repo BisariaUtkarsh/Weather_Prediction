@@ -20,4 +20,4 @@ That’s pretty much all the background we need, so let’s start!
 
 ## Visualization of single Decision Tree of dataset
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![alt text](https://github.com/BisariaUtkarsh/Weather_Prediction/blob/master/small_tree.png)
+![Single_DT](https://github.com/BisariaUtkarsh/Weather_Prediction/blob/master/small_tree.png)
